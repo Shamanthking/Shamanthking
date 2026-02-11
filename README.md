@@ -77,7 +77,12 @@ Git • Linux • Jupyter • Power BI • VS Code • Postman
   <a href="https://github.com/Shamanthking" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/shamanth-m-05537b264" target="_blank">LinkedIn</a>
 </p>
-## 🐍 Contribution Snake
+
+
+### 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/Shamanthking/Shamanthking/output/github-contribution-grid-snake.svg)
 
