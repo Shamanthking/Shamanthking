@@ -53,22 +53,7 @@ Git • Linux • Jupyter • Power BI • VS Code • Postman
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamanthking&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthking&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shamanthking&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
