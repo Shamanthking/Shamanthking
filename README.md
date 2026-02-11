@@ -53,14 +53,7 @@ Git • Linux • Jupyter • Power BI • VS Code • Postman
 
 ---
 
----
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Shamanthking/SHAMANTH">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamanthking&repo=SHAMANTH&theme=tokyonight" />
-  </a>
-</p>
 
 **SHAMANTH** — A showcase of key projects & practical code examples.
 
