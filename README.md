@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shamanth M</h1>
 <h3 align="center">Aspiring Software Engineer | AI & Machine Learning Enthusiast</h3>
 
-
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBqdHFqYnR0N2xqeXlmaDdjZjZ0a3RoZ29ic3RieWN0cGRuZWlmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif
 <p align="center">
   <a href="https://shamanth-swag.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
