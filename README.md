@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shamanth+M;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Welcome+to+my+GitHub+Profile!+🚀" />
+</p>
 <h1 align="center">Hi 👋, I'm Shamanth M</h1>
 <h3 align="center">Aspiring Software Engineer | AI & Machine Learning Enthusiast</h3>
 
